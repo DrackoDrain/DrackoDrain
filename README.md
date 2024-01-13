@@ -18,9 +18,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@longest_living_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@longest_living_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayusharyan07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayusharyan07" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18858438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18858438" height="30" width="40" /></a>
 <a href="https://instagram.com/ayusharyan07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayusharyan07" height="30" width="40" /></a>
+<a href="https://hashnode.com/@ayusharyan07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ayusharyan07" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/drackodrain7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="drackodrain7" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ayusharyan09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayusharyan09" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/drackodrain7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="drackodrain7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
