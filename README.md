@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@longest_living_" target="blank"><img src="https://img.shields.io/twitter/follow/@longest_living_?logo=twitter&style=for-the-badge" alt="@longest_living_" /></a> </p>
 
-- 🔭 I’m a student studying in bachelor of science in Information Technology **from DSPMU Ranchi.**
+- 🔭 I’m a student studying in bachelor of science in Information Technology from ** DSPMU Ranchi.**
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -14,6 +14,12 @@
 - 💬 Ask me about **JavaScript, Tailwind**
 
 - ⚡ Fun fact **I think I am funny but my Codes are more funny.**
+
+- 💻 I specialize in front-end development, where I bring designs to life with HTML, CSS, and JavaScript. I'm all about creating responsive, user-friendly interfaces that leave a lasting impression. I love experimenting with the latest frameworks and technologies to stay ahead in the fast-paced tech landscape.
+  
+- 🔗 Let's connect and build something extraordinary together! Feel free to explore my repositories, and don't hesitate to reach out for collaboration, questions, or just to geek out about coding!
+
+Happy coding! 🚀✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
