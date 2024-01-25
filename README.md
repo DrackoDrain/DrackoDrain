@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drackodrain&label=Profile%20views&color=0e75b6&style=flat" alt="drackodrain" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@longest_living_" target="blank"><img src="https://img.shields.io/twitter/follow/@longest_living_?logo=twitter&style=for-the-badge" alt="@longest_living_" /></a> </p>
+ <p align="left"> <a href="https://twitter.com/@longest_living_" target="blank"><img src="https://img.shields.io/twitter/follow/@longest_living_?logo=twitter&style=for-the-badge" alt="@longest_living_" /></a> </p> 
 
 - 🔭 I’m a student studying in bachelor of science in Information Technology from **DSPMU Ranchi.**
 
