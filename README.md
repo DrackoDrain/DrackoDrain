@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📝 I regularly write articles on [https://hashnode.com/@ayusharyan07](https://hashnode.com/@ayusharyan07)
+- 📝 I regularly write articles on https://ayusharyan07.hashnode.dev/
 
 - 💬 Ask me about **JavaScript, Tailwind**
 
